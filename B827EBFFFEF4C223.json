@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF4C223",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 45.009120,
+    "ref_longitude": 12.207210,
+    "ref_altitude": 0,
+    "contact_email": "italo.spadon@gmail.com",
+    "description": "test lora gateway RAK831"
+  }
+}
+
